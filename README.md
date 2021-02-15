@@ -1,5 +1,7 @@
 # Getting Started with Conway's Game of life in react
 
+view project [here](https://eniolajayi-cnwy-gm-of-lfe.netlify.app/)
+
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
