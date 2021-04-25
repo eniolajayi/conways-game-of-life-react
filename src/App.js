@@ -131,14 +131,14 @@ const App = () => {
         <div class="content__wrapper">
           <h5>Instructions</h5>
           <p>
-            Click <strong>Start to begin simulation</strong>{" "}
+            Click <strong>Start</strong> to begin simulation
           </p>
           <p>
-            Click{" "}
-            <strong>Random to automatically generate a random pattern</strong>{" "}
+            Click <strong>Random </strong> to automatically generate a random
+            pattern
           </p>
           <p>
-            Click <strong>Clear to remove every live cell</strong>{" "}
+            Click <strong>Clear</strong> to remove every live cell
           </p>
         </div>
       </div>
