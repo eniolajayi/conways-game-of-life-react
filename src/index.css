@@ -14,6 +14,15 @@ code {
     monospace;
 }
 
+a {
+  text-decoration: none;
+  color: #1f6feb;
+}
+a:hover,
+a:active {
+  text-decoration: underline;
+}
+
 button {
   padding: 1.2rem 4rem;
   font-size: 0.85rem;
@@ -35,7 +44,7 @@ button:active {
 }
 
 .content {
-  margin-top: 3rem;
+  margin: 3rem 0;
   color: #ffffff;
 }
 .content__wrapper {
@@ -45,4 +54,13 @@ button:active {
 .content__wrapper h5 {
   color: #27d545;
   font-weight: 500;
+}
+
+.ref__section {
+  border-bottom: 1px solid #27d545;
+  padding: 1.4rem;
+}
+
+.ref__link {
+  font-weight: 600;
 }
