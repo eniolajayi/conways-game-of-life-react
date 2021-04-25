@@ -140,6 +140,14 @@ const App = () => {
           <p>
             Click <strong>Clear</strong> to remove every live cell
           </p>
+          <div class="ref__section">
+            <a
+              class="ref__link"
+              href="https://en.wikipedia.org/wiki/Conway's_Game_of_Life"
+            >
+              What is Conways Game Of Life?
+            </a>
+          </div>
         </div>
       </div>
     </>
