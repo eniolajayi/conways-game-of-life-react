@@ -30,6 +30,8 @@ const App = () => {
   const [running, setRunning] = useState(false);
   const runningRef = useRef(running);
   runningRef.current = running;
+
+  // simulator
   const runSimulation = useCallback(() => {
     if (!runningRef.current) {
       return;
