@@ -127,6 +127,21 @@ const App = () => {
           ))
         )}
       </div>
+      <div class="content">
+        <div class="content__wrapper">
+          <h5>Instructions</h5>
+          <p>
+            Click <strong>Start to begin simulation</strong>{" "}
+          </p>
+          <p>
+            Click{" "}
+            <strong>Random to automatically generate a random pattern</strong>{" "}
+          </p>
+          <p>
+            Click <strong>Clear to remove every live cell</strong>{" "}
+          </p>
+        </div>
+      </div>
     </>
   );
 };
